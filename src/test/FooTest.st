@@ -5,7 +5,7 @@ TestCase subclass: FooTestCase [
     bar := 1.
   ]
 
-  testExpectToBeTrueBehaviorOnTrueExpression [
+  testBarIs2 [
     self assert: bar = 2.
   ]
 ]
