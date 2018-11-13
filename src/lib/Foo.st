@@ -1,0 +1,2 @@
+Object subclass: Foo [
+]

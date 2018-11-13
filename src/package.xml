@@ -1,0 +1,10 @@
+<package>
+  <name>FooBarScaffold</name>
+  <namespace>FooBarScaffold</namespace>
+  <test>
+    <sunit>TestCase*</sunit>
+    <filein>test/FooTest.st</filein>
+  </test>
+  <filein>lib/Foo.st</filein>
+</package>
+
